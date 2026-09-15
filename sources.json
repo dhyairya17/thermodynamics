@@ -1,0 +1,252 @@
+[
+  {
+    "id": "Carnot1824",
+    "title": "Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance",
+    "author": "Sadi Carnot",
+    "year": 1824,
+    "type": "primary",
+    "url": "https://archive.org/details/reflexionssurla00carnuoft",
+    "doi": null,
+    "notes": "Original memoir on the motive power of heat. Introduced the reversible cycle and efficiency bound η = 1 - T_c/T_h. Foundational work; English translations available."
+  },
+  {
+    "id": "Joule1843",
+    "title": "On the Calorific Effects of Magneto-Electricity, and on the Mechanical Value of Heat",
+    "author": "James Prescott Joule",
+    "year": 1843,
+    "type": "primary",
+    "url": "https://royalsocietypublishing.org/doi/10.1098/rstl.1844.0038",
+    "doi": "10.1098/rstl.1844.0038",
+    "notes": "Experimental demonstration of mechanical-to-thermal energy conversion. Established first law foundation: ΔU = Q - W. Refuted caloric theory."
+  },
+  {
+    "id": "Clausius1850",
+    "title": "Ueber die bewegende Kraft der Wärme und die Gesetze, welche sich daraus für die Wärmenlehre selbst ableiten lassen",
+    "author": "Rudolf Clausius",
+    "year": 1850,
+    "type": "primary",
+    "url": "https://archive.org/details/overenergieforma00clau",
+    "doi": null,
+    "notes": "Formalized the second law and introduced entropy. Key statement: ΔS ≥ dQ_rev/T for all processes. Clausius inequality is central to modern thermodynamics."
+  },
+  {
+    "id": "Boltzmann1877",
+    "title": "Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen",
+    "author": "Ludwig Boltzmann",
+    "year": 1877,
+    "type": "primary",
+    "url": "https://archive.org/details/weiterestudienub00boltrich",
+    "doi": null,
+    "notes": "Breakthrough: S = k_B ln Ω. Connected macroscopic entropy to number of accessible microstates. Laid foundation for statistical mechanics interpretation of thermodynamics."
+  },
+  {
+    "id": "Gibbs1876",
+    "title": "On the Equilibrium of Heterogeneous Substances",
+    "author": "Josiah Willard Gibbs",
+    "year": 1876,
+    "type": "primary",
+    "url": "https://archive.org/details/transactionsofcon1878conn",
+    "doi": null,
+    "notes": "Unified thermodynamic potentials (U, H, F, G). Introduced Helmholtz and Gibbs free energies. Fundamental to chemistry, phase equilibria, and equilibrium theory."
+  },
+  {
+    "id": "Planck1926",
+    "title": "Treatise on Thermodynamics (3rd ed.)",
+    "author": "Max Planck",
+    "year": 1926,
+    "type": "textbook",
+    "url": "https://archive.org/details/treatiseonthermo00plancuoft",
+    "doi": null,
+    "notes": "Synthesis of classical thermodynamics with statistical mechanics and early quantum theory. Planck's statement of the third law. Bridge to modern quantum thermodynamics."
+  },
+  {
+    "id": "Callen1985",
+    "title": "Thermodynamics and an Introduction to Thermostatistics (2nd ed.)",
+    "author": "Herbert B. Callen",
+    "year": 1985,
+    "type": "textbook",
+    "url": "https://www.wiley.com/en-us/Thermodynamics+and+an+Introduction+to+Thermostatistics%2C+2nd+Edition-p-9780471862567",
+    "doi": null,
+    "notes": "Canonical modern reference for rigorous classical thermodynamics. Postulational approach; entropy as fundamental. Derives all major relations from first principles. Advanced undergraduate to graduate."
+  },
+  {
+    "id": "Reif1965",
+    "title": "Fundamentals of Statistical and Thermal Physics",
+    "author": "Frederick Reif",
+    "year": 1965,
+    "type": "textbook",
+    "url": "https://www.mheducation.com/highered/product/fundamentals-statistical-thermal-physics-reif/9780070518001.html",
+    "doi": null,
+    "notes": "Bridges macroscopic thermodynamics and statistical mechanics pedagogically. Clear treatment of ensembles, partition functions, emergence of thermodynamics. Intermediate to advanced undergraduate. Excellent worked examples."
+  },
+  {
+    "id": "KittelKroemer1980",
+    "title": "Thermal Physics (2nd ed.)",
+    "author": "Charles Kittel & Herbert Kroemer",
+    "year": 1980,
+    "type": "textbook",
+    "url": "https://www.freeman.com/books/thermal-physics",
+    "doi": null,
+    "notes": "Elegant treatment of statistical mechanics and thermodynamics with modern applications. Partition functions, density of states, Debye model, Bose-Einstein and Fermi-Dirac statistics. Advanced undergraduate to graduate."
+  },
+  {
+    "id": "Schroeder1999",
+    "title": "An Introduction to Thermal Physics",
+    "author": "Daniel V. Schroeder",
+    "year": 1999,
+    "type": "textbook",
+    "url": "https://www.pearson.com/us/higher-education/program/Schroeder-An-Introduction-to-Thermal-Physics/PGM308695.html",
+    "doi": null,
+    "notes": "Modern undergraduate text integrating classical and statistical thermodynamics. Clear figures, intuitive explanations, computer simulations. Widely used in US universities. Excellent pedagogical clarity."
+  },
+  {
+    "id": "Zemansky1997",
+    "title": "Heat and Thermodynamics (7th ed.)",
+    "author": "Mark W. Zemansky & Richard H. Dittman",
+    "year": 1997,
+    "type": "textbook",
+    "url": "https://www.mheducation.com/highered/product/heat-thermodynamics-zemansky/9780070727274.html",
+    "doi": null,
+    "notes": "Classic engineering and physics text with historical commentary. Thorough treatment of first and second laws, cycles, real gases. Intermediate to advanced undergraduate. Extensive problem sets."
+  },
+  {
+    "id": "Evans2002",
+    "title": "The Fluctuation Theorem",
+    "author": "Denis J. Evans & Debra J. Searles",
+    "year": 2002,
+    "type": "review",
+    "url": "https://doi.org/10.1080/00018730208556848",
+    "doi": "10.1080/00018730208556848",
+    "notes": "Modern breakthrough in non-equilibrium statistical mechanics. Fluctuation theorem connects time-reversal symmetry violations to entropy production far from equilibrium. Advanced research-level."
+  },
+  {
+    "id": "Jarzynski1997",
+    "title": "Nonequilibrium Equality for Free Energy Differences",
+    "author": "Christopher Jarzynski",
+    "year": 1997,
+    "type": "primary",
+    "url": "https://doi.org/10.1103/PhysRevLett.78.2690",
+    "doi": "10.1103/PhysRevLett.78.2690",
+    "notes": "Jarzynski equality: exp(-β ΔF) = ⟨exp(-β W)⟩. Landmark result; enables measurement of free energies via non-equilibrium pulling. Foundation for molecular dynamics and single-molecule experiments."
+  },
+  {
+    "id": "Crooks1999",
+    "title": "Entropy Production Fluctuation Theorem and the Second Law",
+    "author": "Gavin E. Crooks",
+    "year": 1999,
+    "type": "primary",
+    "url": "https://doi.org/10.1103/PhysRevE.60.2721",
+    "doi": "10.1103/PhysRevE.60.2721",
+    "notes": "Crooks fluctuation theorem: P(W) / P(-W_reverse) = exp(β W). Deepens understanding of irreversibility and microscopic reversibility. Advanced research-level."
+  },
+  {
+    "id": "Landauer1961",
+    "title": "Irreversibility and Heat Generation in the Computing Process",
+    "author": "Rolf Landauer",
+    "year": 1961,
+    "type": "primary",
+    "url": "https://doi.org/10.1147/rd.53.0183",
+    "doi": "10.1147/rd.53.0183",
+    "notes": "Landauer's principle: erasing one bit of information dissipates ≥ k_B T ln 2 of heat. Connects information and thermodynamics. Foundational to quantum computing and computation thermodynamics."
+  },
+  {
+    "id": "Bennett1987",
+    "title": "Demons, Engines, and the Second Law",
+    "author": "Charles H. Bennett",
+    "year": 1987,
+    "type": "essay",
+    "url": "https://doi.org/10.1038/327030a0",
+    "doi": "10.1038/327030a0",
+    "notes": "Beautifully written essay resolving Maxwell's demon paradox. Shows why local entropy decrease requires observer entropy increase via information storage/erasure. Undergraduate to advanced. Highly recommended for conceptual clarity."
+  },
+  {
+    "id": "Kovac2020",
+    "title": "Molecular Biology of the Cell: An Evolutionary Perspective",
+    "author": "Lukas Kovac",
+    "year": 2020,
+    "type": "textbook",
+    "url": "https://link.springer.com/book/10.1007/978-3-030-47931-0",
+    "doi": "10.1007/978-3-030-47931-0",
+    "notes": "Thermodynamics in living systems. How cells maintain low-entropy order against second law via energy consumption. Coupling of exergonic/endergonic reactions via ΔG. Modern biology needs thermodynamic thinking."
+  },
+  {
+    "id": "Huang1987",
+    "title": "Statistical Mechanics (2nd ed.)",
+    "author": "Kerson Huang",
+    "year": 1987,
+    "type": "textbook",
+    "url": "https://www.wiley.com/en-us/Statistical+Mechanics%2C+2nd+Edition-p-9780471815181",
+    "doi": null,
+    "notes": "Comprehensive graduate-level treatment of classical and quantum statistical mechanics. Derivation of thermodynamics from first principles, phase transitions, critical phenomena. Renormalization group approach."
+  },
+  {
+    "id": "Pathria2011",
+    "title": "Statistical Mechanics (3rd ed.)",
+    "author": "Rajendra K. Pathria & Paul D. Beale",
+    "year": 2011,
+    "type": "textbook",
+    "url": "https://www.elsevier.com/books/statistical-mechanics/pathria/978-0-12-382188-1",
+    "doi": null,
+    "notes": "Modern graduate text. Rigorous treatment of ensembles, Bose-Einstein and Fermi-Dirac statistics, phase transitions, critical phenomena. Extensive problems and appendices. Standard in graduate programs."
+  },
+  {
+    "id": "Nelson2004",
+    "title": "Biological Physics: Energy, Information, Life",
+    "author": "Philip Nelson",
+    "year": 2004,
+    "type": "textbook",
+    "url": "https://www.wfreeman.com/books/biology/biological-physics",
+    "doi": null,
+    "notes": "Thermodynamics and statistical mechanics applied to biology: protein folding, membranes, molecular motors. Bridges physics and molecular biology with clarity. Real examples and order-of-magnitude estimates."
+  },
+  {
+    "id": "Prigogine1961",
+    "title": "Introduction to Thermodynamics of Irreversible Processes",
+    "author": "Ilya Prigogine",
+    "year": 1961,
+    "type": "textbook",
+    "url": "https://archive.org/details/introductionther00prig",
+    "doi": null,
+    "notes": "Foundational work on non-equilibrium thermodynamics. Entropy production, phenomenological coefficients (Onsager relations), minimum entropy production principle. Dissipative structures and self-organization."
+  },
+  {
+    "id": "Lebowitz1999",
+    "title": "A Gallavotti–Cohen-type Symmetry Related to Cycle Decompositions for Markov Chains and Biochemical Applications",
+    "author": "Joel L. Lebowitz & Herbert Spohn",
+    "year": 1999,
+    "type": "primary",
+    "url": "https://doi.org/10.1023/A:1004589019122",
+    "doi": "10.1023/A:1004589019122",
+    "notes": "Modern extension of fluctuation theorems to stochastic processes and biochemical cycles. Explains directed motion of molecular machines (kinesin, ATPase) despite thermal noise. Advanced research-level."
+  },
+  {
+    "id": "Maxwell1873",
+    "title": "A Treatise on Electricity and Magnetism (Vol. 1-2)",
+    "author": "James Clerk Maxwell",
+    "year": 1873,
+    "type": "primary",
+    "url": "https://archive.org/details/treatiseonelectr01maxw",
+    "doi": null,
+    "notes": "Introduced the thought experiment of Maxwell's demon (1867). Poses a challenge to the second law: can a being sorting fast/slow molecules decrease entropy? Resolved by Bennett via information theory."
+  },
+  {
+    "id": "VanKampenStochastic2007",
+    "title": "Stochastic Processes in Physics and Chemistry (3rd ed.)",
+    "author": "N. G. Van Kampen",
+    "year": 2007,
+    "type": "textbook",
+    "url": "https://www.elsevier.com/books/stochastic-processes-in-physics-and-chemistry/van-kampen/978-0-444-52965-7",
+    "doi": null,
+    "notes": "Comprehensive treatment of stochastic processes underlying statistical mechanics. Langevin equations, Fokker-Planck equations, noise. Essential for non-equilibrium statistical mechanics and molecular dynamics."
+  },
+  {
+    "id": "EvansSearching1992",
+    "title": "Searching for Simplicity: The Progress of Thermodynamics",
+    "author": "Denis J. Evans (ed.)",
+    "year": 1992,
+    "type": "review",
+    "url": "https://scholar.google.com/scholar?q=Evans+Searching+for+Simplicity+Thermodynamics",
+    "doi": null,
+    "notes": "Historical and philosophical review of thermodynamics. Evolution from phenomenological to statistical foundations. Discusses open problems and future directions in non-equilibrium theory."
+  }
+]
